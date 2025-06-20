@@ -1,0 +1,3 @@
+module oddeven
+
+go 1.24.4
